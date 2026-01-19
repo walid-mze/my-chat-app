@@ -1,7 +1,6 @@
 # 💬 My Chat App
 
-A real-time chat web application built with **Vue.js** and **Firebase**. This project demonstrates modern frontend development, real-time data synchronization, and cloud-based authentication, making it a solid portfolio project for **software engineering and web development internship applications**.
-
+A real-time chat web application built with **Vue.js** and **Firebase**. This project demonstrates modern frontend development, real-time data synchronization, and cloud-based authentication.
 ---
 
 ## 🚀 Project Overview
